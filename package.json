@@ -27,6 +27,6 @@
     "test": "./node_modules/.bin/mocha --recursive"
   },
   "engines": {
-    "node": ">=10"
+    "node": ">=18"
   }
 }
